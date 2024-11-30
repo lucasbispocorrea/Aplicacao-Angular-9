@@ -1,17 +1,17 @@
 {
   "products": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Monitor 24 polegadas",
       "price": 900.99
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Mouse Gamer",
       "price": 159.99
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Teclado Mecanico",
       "price": 269.99
     }
