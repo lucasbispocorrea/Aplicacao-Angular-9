@@ -1,2 +1,4 @@
 # Aplicação-Angular-9
- Curso de Angular 9 na prática
+
+Esse projeto, é a aplicação do aprendizado em um curso de Angular 9;
+Onde estou realizando a criação de uma loja de produtos 
