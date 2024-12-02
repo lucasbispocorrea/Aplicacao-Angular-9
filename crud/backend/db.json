@@ -16,9 +16,9 @@
       "price": 269.99
     },
     {
-      "id": "bb6f",
-      "name": "Headphone Razer",
-      "price": "459.98"
+      "id": 4,
+      "name": "Head Phone Razer",
+      "price": "499.98"
     }
   ]
 }
